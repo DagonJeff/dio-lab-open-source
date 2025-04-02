@@ -3,9 +3,9 @@
 
 
 ## 🚀 Sobre mim
-Graduado no curso de Análise e Desenvolvimento de Sistemas pelo UNIPÊ, tendo iniciado na área de TI em 2013 cursando Sistemas Para Internet, sempre adquirindo e aprimorando os conhecimento em Desenvolvimento Web com várias linguagens de programação como: Java, Python, Dart(Flutter), SQL, JavaScript, HTML, CSS e PHP; Análise de Sistemas e também em Redes de sistemas distribuídos.
+Graduado no curso de Análise e Desenvolvimento de Sistemas pelo UNIPÊ, tendo iniciado na área de TI em 2013 cursando Sistemas Para Internet, sempre adquirindo e aprimorando os conhecimento em Desenvolvimento Web com várias linguagens de programação como: Java, Python, Dart(Flutter), SQL, JavaScript, HTML, CSS e PHP; e também nas áreas de Análise de Sistemas e Redes de sistemas distribuídos.
 
-Músico há mais de 10 anos e serralheiro há 8 anos.Buscando uma oportunidade profissional na área de TI.
+Músico há mais de 10 anos e serralheiro há 8 anos. Buscando uma oportunidade profissional na área de TI.
 
 ## GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DagonJeff&theme=github-green-purple&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
